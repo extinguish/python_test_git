@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+# add some import file from the other side
+import datetime from datetime
+import fabric.api from *
+
 a = 100
 print "please input the value of b: "
 b = raw_input()
@@ -15,4 +19,7 @@ b = 100
 c = a
 c = b
 print c
+
+
+
 
