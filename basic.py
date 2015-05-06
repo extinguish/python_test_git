@@ -6,3 +6,12 @@ if a < 0:
 	print a
 else:
 	print b	
+
+
+
+a = "xyz"
+b = 100
+c = a
+c = b
+print c
+
