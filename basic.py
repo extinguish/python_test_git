@@ -3,6 +3,9 @@
 import datetime from datetime
 import fabric.api from *
 
+# this is really a basic file, and have nothing intervent
+# with the python advanced part 
+
 a = 100
 print "please input the value of b: "
 b = raw_input()
