@@ -24,5 +24,11 @@ c = b
 print c
 
 
+def function():
+	a = 100
+	if a < 20:
+		print 30
+	pass
+
 
 
