@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # the line up here are just using to specify the coding format
-# of this python script file
+# of this python script file.
 
 # add some import file from the other side
 import datetime from datetime
